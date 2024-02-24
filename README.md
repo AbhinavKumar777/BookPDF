@@ -36,7 +36,7 @@ BookPDF is a simple application built using PyQt5 and PyPDF4 that allows users t
 5. The reordered PDF will be saved in the same directory as the original file with a "-reordered" suffix.
 
 ## Screenshots
-![BookPDF Screenshot](Images\Image1.png)
+![BookPDF Screenshot](Images\Image1.png?raw=true)
 
 ## Contributing
 
